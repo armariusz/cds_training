@@ -1,0 +1,5 @@
+@EndUserText.label: 'serv.definition'
+define service Z_I_BOOKING_825 {
+  expose ZI_BOOKING_825 as Booking;
+  expose I_Country as Country;
+}
